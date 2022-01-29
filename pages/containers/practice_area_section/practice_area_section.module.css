@@ -1,0 +1,33 @@
+.practice_area_icon_containers{
+    background-color: #282526;
+}
+.practice_area_icon_container{
+    border: 1px solid #fff;
+    background-color: #282526;
+    box-sizing: border-box;
+    width: 381px;
+    height: 381px;
+}
+.practice_area_icon_container img{
+    width: 100px;
+    height: 100px;
+}
+.practice_area_icon_container label{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.practice_area_icon_container .practice_area_icon_type{
+    left: calc(50% - 269px/2 - 569.5px);
+    top: calc(50% - 95px/2 + 422.5px);
+}
+.practice_area_icon_container .practice_area_icon_value{
+    left: calc(50% - 202px/2 - 569px);
+    top: calc(50% - 42px/2 + 641px);
+}

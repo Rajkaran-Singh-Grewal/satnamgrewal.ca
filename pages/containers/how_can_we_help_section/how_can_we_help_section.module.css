@@ -1,0 +1,16 @@
+.rectangle{
+    background-color: #fff;
+    height: 50px;
+    width: 50px;
+}
+.how_can_we_help_section {
+    background-color: #282523;
+}
+.points{
+    display: flex;
+}
+.grey_rectangle{
+    color: #ffffff !important;
+    width: 700px;
+    height: 700px;
+}

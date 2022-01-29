@@ -1,0 +1,19 @@
+.menu{
+    background-color: #282526!important;
+    width: 1520px;
+    height: 152px;
+    margin-left: 200px;
+}
+.menu_list{
+    float: right;
+    list-style-type: none;
+    margin-top: 51px;
+    padding: 0;
+}
+.menu_list li{
+    float:left;
+}
+.menu_list li label {
+    padding: 37px;
+    color: white;
+}

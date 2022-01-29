@@ -1,0 +1,10 @@
+export {default as bankrupcy} from "./bankrupcy.png";
+export {default as car_accident} from "./car_accident.png";
+export {default as capital_market} from "./capital_market.png";
+export {default as family_law} from "./family_law.png";
+export {default as child_welfare } from "./child_welfare.png";
+export {default as copyright} from "./copyright.png";
+export {default as immigration} from "./immigration.png";
+export {default as criminal_code} from "./criminal_code.png";
+export {default as public_health} from "./public_health.png";
+export {default as business_contract} from "./business_contract.png";
